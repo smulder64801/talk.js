@@ -8,3 +8,4 @@ Notes and usage details for talk.js.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
