@@ -14,3 +14,4 @@ Notes and usage details for talk.js.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
