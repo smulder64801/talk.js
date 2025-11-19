@@ -21,3 +21,4 @@ Notes and usage details for talk.js.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
