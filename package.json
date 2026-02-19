@@ -1,6 +1,6 @@
 {
   "name": "talk.js",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "description": "\ud83c\udf99  A monthly meet up for all things JavaScript, Node.js, and the modern web ",
   "main": "src/index.js",
   "scripts": {
